@@ -1,0 +1,8 @@
+
+{
+  "name": "LatticeVAD - API Forensics",
+  "description": "Multi-language REST API prototype for high-fidelity detection of AI-generated voices. Supports Tamil, English, Hindi, Malayalam, and Telugu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
